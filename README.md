@@ -3,12 +3,12 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://vk.com/timeofway">
+    <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <p><a href="https://www.youtube.com/watch?v=7uC9S0ZzPRo" target="_blank">
+  <a href="https://www.youtube.com/watch?v=7uC9S0ZzPRo" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-    </a></p>
+    </a>
 </div>
 
 <div id="viewprof" align="center">
