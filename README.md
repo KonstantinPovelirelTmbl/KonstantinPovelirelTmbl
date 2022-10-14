@@ -47,5 +47,5 @@ I am not a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMp
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KonstantinPovelirelTmbl&theme=garden&hide_border=true&border_radius=1&date_format=%5BY.%5Dn.j"/>
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KonstantinPovelirelTmbl"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=KonstantinPovelirelTmbl&theme=jolly"/>
  </div>
