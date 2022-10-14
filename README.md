@@ -6,8 +6,8 @@
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
-  <img src="https://www.youtube.com/watch?v=7uC9S0ZzPRo?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badges"/>
+  <a href="https://www.youtube.com/watch?v=7uC9S0ZzPRo">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
 </div>
 
