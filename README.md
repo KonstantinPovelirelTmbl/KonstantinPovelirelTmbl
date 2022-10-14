@@ -3,7 +3,7 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="your-linkedin-URL" target="_blank">
+  <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.youtube.com/watch?v=7uC9S0ZzPRo" target="_blank">
